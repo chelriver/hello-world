@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul#menu {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+ul#menu li {
+	display: inline;
+	float: center;
+}
+ul#menu li a {
+	background-color: black;
+	color: white;
+	padding: 10px 20px;
+	text-decoration: none;
+	border-radius: 4px 4px 0 0;
+}
+ul#link, a:visited {
+	menu li a:l
+	display: block;
+	width: 150px;
+	font-weight: bold;
+	color: white;
+	background-color: #660066;
+	text-align: center;
+	padding: 4px;
+	text-decoration: none;
+	text-transform: uppercase;
+	border-radius: 10px 10px 0 0;
+}
+ul#menu li a:hover, a:active {
+color: yellow;
+background-color: #993399;
+}
+</style>
+</head>
+<body>
+<center>
+<ul id="menu" style="font-family:impact;font-size:200%;">
+	<li><a href="ChelseaWangHome.html">Home</a></li>
+	<li><a href="Hobbies.html">Hobbies</a></li>
+	<li><a href="Lists.html">Lists</a></li>
+	<li><a href="Cities.html">Cities</a></li>
+</ul>
+</center>
+</body>
+</html>
